@@ -51,6 +51,9 @@ X-Tracker is a web application designed to help small business owners organize  
 ![Screenshot](./public/assets/img/Screenshot%202024-08-06%20105104.png)
 
  ## Link to Deployed App
+ [X-track Heroku version]( https://thawing-lake-93764-7a7761841a73.herokuapp.com/)
+
+ 
 
  
  ## Credits
